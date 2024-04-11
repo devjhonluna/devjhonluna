@@ -19,3 +19,6 @@ He estado aprendiendo y trabajando en diversas tecnologías frontend:
 
 Herramientas 🛠️
 Estoy trabajando con estas herramientas para mis proyectos: 
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/8c6f0113-f5a4-441a-980a-775950ebaf20) 
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/2e60ec05-da9c-4e4a-b10c-8f4ce7666bcf)
+
