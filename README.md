@@ -13,12 +13,15 @@ He estado aprendiendo y trabajando en diversas tecnologías frontend:
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/32d31332-fdeb-428d-a3a8-8cf204d5c268)
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/80c68f26-7da3-4d65-9b03-6c9106277983)
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/d6d81a84-4e41-412f-bcc8-41ba5a625a40)
-
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/1fc898ad-21f3-49d0-8b10-a32491d16ed4)
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/94b391e2-e235-4fcb-b96a-41ed52f9bcc2) 
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/dc73da64-269d-40ce-9c2d-89db449fcf40)
 
 
 
 Herramientas 🛠️
 Estoy trabajando con estas herramientas para mis proyectos: 
+
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/8c6f0113-f5a4-441a-980a-775950ebaf20) 
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/2e60ec05-da9c-4e4a-b10c-8f4ce7666bcf)
 
