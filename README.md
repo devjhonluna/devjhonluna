@@ -3,6 +3,7 @@
 
 Hola, Soy Jhon Alexander Luna 👋
 🎓 Graduado de la Unidades Tecnologicas de Santander como Tecnologo en Desarrollo de Sistemas Informaticos e Ingeneria de Sistemas
+Desarrollador Frontend y 
 
 Tecnologias que Uso 🎯:
 
@@ -16,8 +17,9 @@ Tecnologias que Uso 🎯:
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/94b391e2-e235-4fcb-b96a-41ed52f9bcc2) 
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/dc73da64-269d-40ce-9c2d-89db449fcf40)
 
-Experimentando 🧪
+Experimentando con🧪:
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/7a115b0b-4ba8-41db-9c45-530c2ca1e016)
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/a6b4c37c-4a4f-4594-8815-379e98b32b3e)
 
 
 Herramientas 🛠️
