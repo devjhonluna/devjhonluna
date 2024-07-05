@@ -1,5 +1,7 @@
 
-![Dev JL Logo-2](https://github.com/devjhonluna/devjhonluna/assets/106981529/3ea6c260-79fd-411e-8727-934cb799cf15)
+<div align="center">
+    <img src="https://github.com/devjhonluna/devjhonluna/assets/106981529/3ea6c260-79fd-411e-8727-934cb799cf15" width="300"/>
+</div>
 
 # Hola, Soy Jhon Alexander Luna 👋
 Soy un desarrollador frontend junior apasionado por la inteligencia artificial. Aunque soy nuevo en el campo del desarrollo web, estoy comprometido con el aprendizaje continuo y la experimentación con nuevas tecnologías.
