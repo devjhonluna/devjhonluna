@@ -15,7 +15,7 @@
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/e16e1992-1116-490f-bf88-9d6bb3a4453a)  ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/af1a88bb-a566-4907-831c-7a456e9ff495)
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/baf33964-1b56-45c2-a4f2-7ea38b9b60bd) ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/32d31332-fdeb-428d-a3a8-8cf204d5c268)  
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/80c68f26-7da3-4d65-9b03-6c9106277983) ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/d6d81a84-4e41-412f-bcc8-41ba5a625a40)
-![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/1fc898ad-21f3-49d0-8b10-a32491d16ed4) ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/94b391e2-e235-4fcb-b96a-41ed52f9bcc2)
+![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/1fc898ad-21f3-49d0-8b10-a32491d16ed4) ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/dc73da64-269d-40ce-9c2d-89db449fcf40) ![image](https://github.com/devjhonluna/devjhonluna/assets/106981529/a6b4c37c-4a4f-4594-8815-379e98b32b3e)
 
 </div>
