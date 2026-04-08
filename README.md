@@ -19,17 +19,23 @@ Soy desarrollador frontend enfocado en construir interfaces claras, rápidas y m
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devjhonluna&locale=es&short_numbers=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devjhonluna&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](
-https://portafolio-devjl.netlify.app/)
+## 🔗 Mis Redes Sociales 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-alexander-luna)
+<a href="https://portafolio-devjl.netlify.app/">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+</a>
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](
-https://www.tiktok.com/@dev.jhonluna)
+<a href="https://www.linkedin.com/in/jhon-alexander-luna">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]()
+<a href="https://www.tiktok.com/@dev.jhonluna">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+</a>
 
+<a href="https://twitter.com/zodiacozero">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
 
 <p align="center">
     Estoy siempre abierto a colaborar en proyectos interesantes y aprender de la comunidad. 
