@@ -12,7 +12,7 @@ Soy desarrollador frontend enfocado en construir interfaces claras, rápidas y m
 [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=bootstrap,reactjs-light,scss,svelte&t=light)](https://i.icoziv.workers.dev)
 
 ### Herramientas
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=git-light,github-light,googlegemini-light,netlify-light,notion-light,vercel-light,visualstudiocode-light&t=light)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=git-light,github-light,googlegemini-light,googleworkspace-light,groq,netlify-light,notion-light,vercel-light,visualstudiocode-light&t=light)](https://i.icoziv.workers.dev)
 
 
 ## Stats
